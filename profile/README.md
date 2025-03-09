@@ -4,8 +4,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/omnicloudorg/omnicloud-full)
 ![GitHub license](https://img.shields.io/github/license/omnicloudorg/omnicloud-full)
 
-> **Warning: Early Development Stage**
-> 
+> [!CAUTION]
 > OmniCloud is currently in active development. The features and capabilities described below represent our vision and roadmap. Many components are not yet fully implemented and are subject to significant changes.
 
 ## Our Vision
